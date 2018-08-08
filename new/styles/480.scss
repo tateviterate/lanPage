@@ -1,0 +1,451 @@
+@media screen and (max-width: 520px) {
+   .cont,.cont-small{
+
+	width:320px;
+
+	 
+			}
+
+
+			.site-title{
+
+
+	font-size:20px;
+	
+}
+
+
+
+.site-header{
+
+	
+.site-header-left{
+	width:15%;
+
+
+img {
+    max-width: 35px;
+}
+
+	
+	} 
+
+
+	.site-header-right{
+
+		width:85%;
+		padding: 28px 0 0 0;
+
+
+			ul{
+				
+				li{
+
+					
+					margin: 0 10px 0 0;
+
+					a{
+
+						
+						font-size:11px;
+					}
+				}
+			}
+	}
+
+
+}
+
+	
+
+		.home-page{
+
+			.home-first-section{
+
+				height:350px;
+
+					.home-first-left {
+    
+                    width: 100%;
+                }
+
+                    .home-first-right{
+
+                    	display:none
+                    }
+
+
+				.home-first-cont{
+			
+
+					.cont{
+
+						.home-first-info{
+							
+							width:100%;
+							text-align:center;
+						
+
+							h1{
+
+								max-width: 100%;
+								font-size: 20px;
+								line-height: 30px;
+							}
+
+							a {
+						   
+						    width: 177px;
+						    height: 48px;
+						    border: 1px solid;
+						    font-size: 18px;
+						    padding: 13px 0;
+						    margin:0 auto;
+						    margin-top: 37px ;
+						}
+
+							
+						}
+
+						
+					}
+				}
+			}
+
+				.home-about-section{
+
+					.site-title{
+
+						margin:40px 0 20px 0;
+					}
+
+
+					.home-about-top{
+
+						height: 100%;
+
+						> div {
+						    width: 100%;
+						    float: none;
+						    height: 50%;
+						}
+
+					
+
+						.home-about-right{
+							padding:50px 30px;
+							    line-height: 25px;
+							    float:none;
+							    width:100%;
+							
+
+							p{
+								font-size:16px;
+						
+
+
+							}
+
+						}
+
+			
+
+						
+
+			                }
+
+					.home-about-bottom{
+
+						
+						height:160px;
+						margin:20px 0 40px 0;
+						
+						.cont-small{
+
+
+							p{
+								
+							     font-size: 18px;
+								 max-width: 400px;
+								 line-height: 26px;
+
+							}
+						}
+					}
+
+				}
+
+
+				.home-service-section{
+
+				h4 {
+					    font-size: 18px;
+					    margin: 15px 0 30px 0;
+					}
+				.cont-small{
+					
+					.home-service-left,.home-service-right{
+
+
+								    width: 100%;
+                             float: none;
+
+						.home-service-block{
+
+							width:100%;
+
+							&:first-child{
+
+								margin:0 0 30px 0;
+							}
+							
+
+
+							.home-service-img{
+
+								height: 195px;
+
+							}
+
+							.home-service-info{
+
+                                   padding: 28px 20px;
+		                          
+
+								h3{
+
+									font-size:16px;
+									line-height:20px;
+								
+								}
+
+
+								
+							}
+						}
+
+					}
+
+					.home-service-middle{
+
+				
+						   display:none;
+
+						   
+
+
+					}
+
+
+					.home-service-video{
+						    margin: 0 0 30px 0;
+						        height: 300px;
+
+						
+
+					}
+
+				
+			}
+
+
+		}
+
+
+		.home-who-section{
+
+			    height: 280px;
+			    margin: 40px 0 0 0;
+
+
+         .home-who-left{
+				
+				width:100%;
+
+         }
+		
+		.home-who-right{
+
+			display:none;
+		}
+
+
+		.home-who-cont{
+
+			
+			padding:0 20px 0 0;
+			width:100%;
+			text-align:center;
+			
+
+			h3{
+
+				font-size:26px;
+				
+			}
+
+			p{
+				font-size:14px;
+				line-height:20px;
+				margin:20px 0;
+			}
+
+
+			a{
+				
+				    margin: 0 auto;
+
+			}
+		}
+
+	}
+
+
+
+	.home-sign-section{
+		   	margin: 0 0 75px 0;
+					
+					.cont{
+
+						.home-sign-left{
+							width:100%;
+							float:none;
+
+							    padding: 0 25px ;
+
+
+										p {
+							    
+							    line-height: 20px;
+							    font-size:14px;
+    							margin: 20px 0;
+							    
+		                      }
+
+		                       .home-sign-forms{
+
+		                       	    padding: 0;
+
+									input{
+									 height: 55px;
+									 margin: 0 0 20px 0;
+									     padding: 0 0 0 15px;
+										    font-size: 16px;
+
+									}
+
+									input[type=submit] {
+								    
+								    font-size: 20px;
+								    
+								}
+
+		                       	} 
+
+
+
+
+
+							} 
+
+
+							.home-sign-right{
+									
+									display:none;
+
+						
+
+
+								} 
+					}
+			
+
+
+		   }
+
+	
+	.home-testimonial-section{
+
+		padding:0 0 40px 0;
+
+		.site-title{
+
+			margin: 40px 0 20px 0;
+		}
+
+		.testimonial-message{
+
+			font-size:14px;
+			padding:0 ;
+			line-height:18px;
+
+			&:before{
+
+				display:none;
+
+			}
+			
+
+		}
+
+		.testimonial-author{
+			font-size:16px;
+		}
+
+		
+	}
+
+
+
+		}
+
+
+    .site-footer{
+
+
+
+	.footer-top{
+
+		flex-wrap: wrap;
+		    padding:  0;
+
+		.footer-blocks{
+
+			width:50%;
+			margin: 0 0 30px 0;
+
+		}
+
+
+		.footer-subscribe-block{
+
+			    min-width: 200px;
+
+			span{
+
+				font-size:14px;
+				margin: 0;
+			}
+
+			a {
+				  
+				    margin: 0 0 0 8px;
+				}
+
+
+
+			.footer-subscribe{
+
+			
+				margin:25px 0 0 0;
+			}
+		}
+
+
+	}
+
+	
+}
+
+
+		}

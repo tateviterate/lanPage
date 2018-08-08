@@ -1,0 +1,25 @@
+.site-header .site-header-right ul li a:hover {
+    
+    color: #29abe2;
+    
+}
+
+.home-page .home-first-section .home-first-cont .cont .home-first-info a:hover {
+    
+    color: #2d434d;
+    background: #fff;
+}
+
+.home-page .home-who-section .home-who-cont a:hover {
+    
+    color: #585858;
+    background: #fff;
+    
+}
+
+
+
+.site-footer .footer-top .footer-subscribe-block .footer-subscribe:hover {
+   
+    color: #ffffff;
+    background: #2d434d;}
