@@ -1,0 +1,200 @@
+@media screen and (max-width: 1640px) {
+   .cont{
+
+	width:1200px;
+
+	 
+			}
+
+		.cont-small{
+
+			width:1024px;
+
+			 
+		}
+
+		.home-page{
+
+			.home-first-section{
+
+				height:580px;
+
+				.home-first-cont{
+			
+
+					.cont{
+
+						.home-first-info{
+
+						
+
+							h1{
+
+								max-width: 390px;
+							}
+
+							
+						}
+
+						
+					}
+				}
+			}
+
+				.home-about-section{
+
+					.site-title{
+
+						margin:112px 0 85px 0;
+					}
+
+
+					.home-about-top{
+
+						height: 400px;
+
+					
+
+						.home-about-right{
+							padding:0 60px 0 40px;
+							    line-height: 40px;
+							
+
+							p{
+								font-size:26px;
+								color:#2d434d;
+
+
+							}
+
+						}
+
+			
+
+						
+
+			                }
+
+					.home-about-bottom{
+
+						width:100%;
+						height:508px;
+						background:url("../img/about2.jpg");
+						background-size:cover;
+						background-position:center center;
+						margin:59px 0 112px 0;
+						
+						.cont-small{
+
+							display:flex;
+							height:100%;
+							align-items:center;
+							justify-content:center;
+
+							p{
+								color:#fff;
+								font-size:32px;
+								max-width:802px;
+								    text-align: center;
+								    line-height:50px;
+							}
+						}
+					}
+
+				}
+
+
+				.home-service-section{
+
+				
+				.cont-small{
+					
+					.home-service-left,.home-service-right{
+
+
+						.home-service-block{
+
+							width:100%;
+
+							&:first-child{
+
+								margin:0 0 288px 0;
+							}
+							
+
+
+							.home-service-img{
+
+								width:100%;
+								height:277px;
+
+								img{
+
+									max-width:100%;
+									height:auto;
+								}
+							}
+
+							.home-service-info{
+
+		                          
+
+								h3{
+
+									font-size:22px;
+									line-height:30px;
+								
+								}
+
+
+								
+							}
+						}
+
+					}
+
+					.home-service-middle{
+
+				
+						    padding: 140px 0 0 0;
+
+					
+
+					
+
+
+					}
+
+				
+			}
+
+
+		}
+
+
+
+		           .home-sign-section{
+		   	margin: 0 0 75px 0;
+					
+					.cont{
+
+						.home-sign-left{
+
+
+										p {
+							    
+							    font-size: 28px;
+							    line-height: 40px;
+							    margin: 35px 0 54px 0;
+		}
+
+							} 
+					}
+			
+
+
+		   }
+
+		}
+
+		}

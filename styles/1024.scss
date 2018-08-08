@@ -1,0 +1,406 @@
+@media screen and (max-width: 1050px) {
+   .cont,.cont-small{
+
+	width:768px;
+
+	 
+			}
+
+
+			.site-title{
+
+
+	font-size:24px;
+	
+}
+
+
+
+.site-header{
+
+	
+.site-header-left{
+
+img {
+    max-width: 60px;
+}
+
+	
+	} 
+
+
+	.site-header-right{
+
+
+			ul{
+				
+				li{
+
+					
+					margin: 0 18px 0 0;
+
+					a{
+
+						
+						font-size:16px;
+					}
+				}
+			}
+	}
+
+
+}
+
+	
+
+		.home-page{
+
+			.home-first-section{
+
+				height:400px;
+
+				.home-first-cont{
+			
+
+					.cont{
+
+						.home-first-info{
+
+						
+
+							h1{
+
+								max-width: 250px;
+								font-size: 24px;
+								line-height: 30px;
+							}
+
+							
+						}
+
+						
+					}
+				}
+			}
+
+				.home-about-section{
+
+					.site-title{
+
+						margin:60px 0 45px 0;
+					}
+
+
+					.home-about-top{
+
+						height: 257px;
+
+					
+
+						.home-about-right{
+							padding:0 50px 0 30px;
+							    line-height: 25px;
+							
+
+							p{
+								font-size:16px;
+						
+
+
+							}
+
+						}
+
+			
+
+						
+
+			                }
+
+					.home-about-bottom{
+
+						
+						height:240px;
+						margin:30px 0 60px 0;
+						
+						.cont-small{
+
+
+							p{
+								
+							    font-size: 22px;
+							    max-width: 500px;
+							    line-height: 30px;
+
+							}
+						}
+					}
+
+				}
+
+
+				.home-service-section{
+
+				h4 {
+					    font-size: 18px;
+					    margin: 15px 0 30px 0;
+					}
+				.cont-small{
+					
+					.home-service-left,.home-service-right{
+
+
+						.home-service-block{
+
+							width:100%;
+
+							&:first-child{
+
+								margin:0 0 288px 0;
+							}
+							
+
+
+							.home-service-img{
+
+								height: 200px;
+
+							}
+
+							.home-service-info{
+
+                                   padding: 28px 20px;
+		                          
+
+								h3{
+
+									font-size:18px;
+									line-height:26px;
+								
+								}
+
+
+								
+							}
+						}
+
+					}
+
+					.home-service-middle{
+
+				
+						    padding: 40px 0 0 0;
+
+						    span.active-part{
+
+						    	&:before{
+
+						    		    width: 20px;
+									    left: -20px;
+						    	}
+						    }
+
+						   
+
+
+					}
+
+
+					.home-service-video{
+
+						.home-service-video-layer{
+
+							height: 300px;
+
+									p {
+							    font-size: 17px;
+							    color: #7b7b7b;
+							    text-align: center;
+							    max-width: 280px;
+							    margin: 30px 0 0 0;
+							    line-height: 20px;
+							}
+						}
+
+					}
+
+				
+			}
+
+
+		}
+
+
+		.home-who-section{
+
+			    height: 400px;
+			    margin: 40px 0 0 0;
+
+		
+
+
+		.home-who-cont{
+
+			
+			padding:0 20px 0 0;
+			
+
+			h3{
+
+				font-size:26px;
+				
+			}
+
+			p{
+				font-size:14px;
+				line-height:20px;
+				margin:20px 0;
+			}
+
+
+			a{
+				
+				width:150px;
+				height:40px;
+				padding:11px 0;
+				font-size:14px;
+
+			}
+		}
+
+	}
+
+
+
+	.home-sign-section{
+		   	margin: 0 0 75px 0;
+					
+					.cont{
+
+						.home-sign-left{
+
+							    padding: 0 55px 0 0;
+
+
+										p {
+							    
+							    line-height: 26px;
+    							margin: 25px 0;
+							    
+		                      }
+
+		                       .home-sign-forms{
+
+		                       	    padding: 0;
+
+									input{
+									 height: 55px;
+									 margin: 0 0 20px 0;
+									     padding: 0 0 0 15px;
+										    font-size: 16px;
+
+									}
+
+									input[type=submit] {
+								    
+								    font-size: 20px;
+								    
+								}
+
+		                       	} 
+
+
+
+
+
+							} 
+
+
+							.home-sign-right{
+
+
+								.home-sign-img {
+    									width: 94%;
+    									height:500px;
+
+    									&:after {
+											    
+											    height: 410px;}
+
+
+    								}
+
+
+								} 
+					}
+			
+
+
+		   }
+
+	
+	.home-testimonial-section{
+
+		padding:0 0 120px 0;
+
+		.site-title{
+
+			margin: 70px 0 50px 0;
+		}
+
+		.testimonial-message{
+
+			font-size:16px;
+			padding:0 75px;
+			line-height:20px;
+			
+
+		}
+
+		
+	}
+
+
+
+		}
+
+
+    .site-footer{
+
+
+
+	.footer-top{
+
+
+		.footer-subscribe-block{
+
+			width:200px;
+
+			span{
+
+				font-size:14px;
+				margin: 0;
+			}
+
+			a {
+				  
+				    margin: 0 0 0 8px;
+				}
+
+
+
+			.footer-subscribe{
+
+			
+				margin:25px 0 0 0;
+			}
+		}
+
+
+	}
+
+	
+}
+
+
+		}
